@@ -1,0 +1,11 @@
+{
+  "name": "timer-workflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alfred-notifier": "^0.2.3",
+    "alfy": "^0.8.0",
+    "run-applescript": "^3.2.0"
+  }
+}
