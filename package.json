@@ -6,6 +6,7 @@
   "dependencies": {
     "alfred-notifier": "^0.2.3",
     "alfy": "^0.8.0",
+    "node-notifier": "^5.4.0",
     "run-applescript": "^3.2.0"
   }
 }
